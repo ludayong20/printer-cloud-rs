@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="printer-cloud-rs:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/printer_cloud_rs_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="printer-cloud-rs/ejb/EJB" />
+      <element id="module-output" name="printer-cloud-rs" />
+    </root>
+  </artifact>
+</component>
